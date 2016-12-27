@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vamsisaikrishna\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Vamsisaikrishna\Downloads\itunesproject\newsreader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_02990d1cb809c3aba09aca9b4992e6f2efcedfac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vamsisaikrishna\Downloads\itunesproject\newsreader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="66a6507d90f49f6c3a3694cba4a53d1a9cfc1d66">
+        <dex dex="C:\Users\Vamsisaikrishna\Downloads\itunesproject\newsreader\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f7c1a2aad623a33943905f0ec795f322d5bd0bb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vamsisaikrishna\Downloads\itunesproject\newsreader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="000fd66ea96263893bb7788eeba3c171234816a6">
+        <dex dex="C:\Users\Vamsisaikrishna\Downloads\itunesproject\newsreader\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e4707601e5249333fcce49a802091924aba638d5\classes.dex" />
+    </item>
+
+</items>

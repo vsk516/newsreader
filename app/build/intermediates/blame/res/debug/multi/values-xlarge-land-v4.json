@@ -41,5 +41,48 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\values-xlarge-land\\layouts.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 42,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 66,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\values-xlarge-land\\layouts.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 730,
+                        "endColumn": 66,
+                        "endOffset": 792
+                    }
+                }
+            }
+        ]
     }
 ]

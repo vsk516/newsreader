@@ -1,5 +1,48 @@
 [
     {
+        "outputFile": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-port-v4\\values-xlarge-port-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\values-xlarge-port\\layouts.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 42,
+                        "endOffset": 843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 73,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\values-xlarge-port\\layouts.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 730,
+                        "endColumn": 73,
+                        "endOffset": 799
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-port-v4\\values-xlarge-port-v4.xml",
         "map": [
             {

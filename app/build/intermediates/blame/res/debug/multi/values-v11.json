@@ -1,5 +1,132 @@
 [
     {
+        "outputFile": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\values-v11\\layouts.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 797,
+                        "endColumn": 43,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 65,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\values-v11\\layouts.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 730,
+                        "endColumn": 65,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endLine": 8,
+                    "endColumn": 8,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\values-v11\\style.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 896,
+                        "endLine": 26,
+                        "endColumn": 8,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endLine": 13,
+                    "endColumn": 8,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\values-v11\\style.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 697,
+                        "endLine": 21,
+                        "endColumn": 8,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endLine": 17,
+                    "endColumn": 8,
+                    "endOffset": 876
+                },
+                "from": {
+                    "file": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\values-v11\\style.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 0,
+                        "startOffset": 1167,
+                        "endLine": 30,
+                        "endColumn": 8,
+                        "endOffset": 1413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 881,
+                    "endLine": 19,
+                    "endColumn": 8,
+                    "endOffset": 978
+                },
+                "from": {
+                    "file": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\values-v11\\style.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 0,
+                        "startOffset": 1417,
+                        "endLine": 33,
+                        "endColumn": 8,
+                        "endOffset": 1515
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
         "map": [
             {

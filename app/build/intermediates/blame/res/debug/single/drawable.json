@@ -1,10 +1,18 @@
 [
     {
+        "merged": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg.xml",
+        "source": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\drawable\\tab_bg.xml"
+    },
+    {
         "merged": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
         "source": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\src\\main\\res\\drawable\\button_bg.xml"
     },
     {
         "merged": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg.xml",
         "source": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\src\\main\\res\\drawable\\tab_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\drawable\\button_bg.xml"
     }
 ]

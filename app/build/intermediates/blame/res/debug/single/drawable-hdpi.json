@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
         "merged": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_bg_selected.9.png",
         "source": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\tab_bg_selected.9.png"
     },
@@ -12,8 +16,20 @@
         "source": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\button_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
         "merged": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_bg_normal.9.png",
         "source": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\tab_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_normal.9.png",
+        "source": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\button_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_bg_normal.9.png",
+        "source": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\tab_bg_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_pressed.9.png",
@@ -22,5 +38,13 @@
     {
         "merged": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
         "source": "C:\\Users\\Vamsisaikrishna\\Downloads\\itunesproject\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_pressed.9.png",
+        "source": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\button_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_bg_selected.9.png",
+        "source": "C:\\Users\\Vamsisaikrishna\\Desktop\\Andriod\\practice\\HW1\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\tab_bg_selected.9.png"
     }
 ]

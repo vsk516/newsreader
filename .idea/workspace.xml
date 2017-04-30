@@ -1974,7 +1974,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493593801026</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit after unStash2">
+      <created>1493594219429</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1493594219430</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2020,7 +2027,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit after unStash" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit after unStash" />
+    <MESSAGE value="initial commit after unStash2" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit after unStash2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
